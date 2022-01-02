@@ -35,6 +35,6 @@ Some common built-in functions used in PHP are:</p>
 
 <br>
 
-    Built-in functions are comparatively slower than their language construct counterparts.
+    Note: Built-in functions are comparatively slower than their language construct counterparts.
     They have better code organization. They usually take input arguments and always return a
     value. Built-in functions usually comprise of date, numeric and string functions.
